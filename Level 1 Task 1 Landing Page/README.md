@@ -53,15 +53,16 @@ Have questions or suggestions? Feel free to connect:
 
 ---
 ## 📸 Screenshots
-### Hero Section  
-![Features](./assets/Features.jpg)
 
+### Hero Section  
+![Hero](./assets/Hero Section.jpg)
 
 ### Features  
-![Features](./assets/screenshots/features.jpg)
+![Features](./assets/Features.jpg)
 
 ### About Me  
-![About](./assets/screenshots/about.jpg)
+![About](./assets/About Me.jpg)
+
 
 ## 🛠️ Technologies Used
 - HTML5  
