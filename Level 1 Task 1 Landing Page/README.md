@@ -8,7 +8,6 @@ Welcome to my Landing Page project, created as part of **Level 1, Task 1** durin
 - [Services](#services)
 - [About Me](#about-me)
 - [Contact](#contact)
-- [Demo](#demo)
 - [Screenshots](#screenshots)
 - [Technologies Used](#technologies-used)
 - [How to Run Locally](#how-to-run-locally)
@@ -53,13 +52,6 @@ Have questions or suggestions? Feel free to connect:
 - 📘 Facebook: [@amanaryaji](https://www.facebook.com/amanaryaji)
 
 ---
-
-## 🎬 Demo
-🔗 **[Click here to view the live demo](#)**  
-*(Replace `#` with your hosted link from GitHub Pages or Google Drive video.)*
-
----
-
 ## 📸 Screenshots
 ### Hero Section  
 ![Hero](./assets/screenshots/hero.jpg)
@@ -69,10 +61,6 @@ Have questions or suggestions? Feel free to connect:
 
 ### About Me  
 ![About](./assets/screenshots/about.jpg)
-
-*(Add screenshot images to an `assets/screenshots` folder or update paths as needed.)*
-
----
 
 ## 🛠️ Technologies Used
 - HTML5  
