@@ -55,7 +55,8 @@ Have questions or suggestions? Feel free to connect:
 ## 📸 Screenshots
 
 ### Hero Section  
-CODSOFT/Level 1 Task 1 Landing Page/assests/hero.JPG
+![Hero](./assets/hero.JPG)
+
 
 ### Features  
 ![Features](./assets/Features.jpg)
