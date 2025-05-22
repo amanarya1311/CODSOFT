@@ -54,9 +54,8 @@ Have questions or suggestions? Feel free to connect:
 ---
 ## 📸 Screenshots
 
-### Hero Section  
-![Hero](./assets/hero.JPG)
-
+### Hero Section   
+![Hero](./assets/hero.jpg)
 
 ### Features  
 ![Features](./assets/Features.jpg)
