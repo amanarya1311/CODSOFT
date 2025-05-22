@@ -54,15 +54,17 @@ Have questions or suggestions? Feel free to connect:
 ---
 ## 📸 Screenshots
 
-### Hero Section   
+### Hero Section  
 ![Hero](./assets/hero.jpg)
 
 ### Features  
-![Features](./assets/Features.jpg)
+![Features](./assets/features.jpg)
+
+### Services  
+![Services](./assets/services.jpg)
 
 ### About Me  
-![About](./assets/About Me.jpg)
-
+![About](./assets/about.jpg)
 
 ## 🛠️ Technologies Used
 - HTML5  
