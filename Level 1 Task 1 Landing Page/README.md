@@ -76,6 +76,17 @@ Have questions or suggestions? Feel free to connect:
 - Responsive Flexbox Layout
 
 ---
+## 🚀 How to Run Locally
 
-## 🧪 How to Run Locally
-1. Clone the repository:
+Follow these steps to view the landing page on your local machine:
+
+1. Clone the repository: git clone https://github.com/amanarya1311/CODSOFT.git
+2. Navigate to the project folder:cd "Level 1 Task 1 Landing Page"
+3.  Open the Index.html file in your web browser:
+
+You can double-click the Index.html file, OR
+
+Right-click on it and select "Open with" > your preferred browser, OR
+
+Use a Live Server extension in VS Code (recommended for real-time changes).
+
