@@ -60,11 +60,13 @@ Have questions or suggestions? Feel free to connect:
 ### Features  
 ![Features](./assets/features.jpg)
 
+### About Me  
+![About](./assets/about.jpg)
+
 ### Services  
 ![Services](./assets/services.jpg)
 
-### About Me  
-![About](./assets/about.jpg)
+
 
 ## 🛠️ Technologies Used
 - HTML5  
