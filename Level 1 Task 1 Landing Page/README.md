@@ -55,7 +55,7 @@ Have questions or suggestions? Feel free to connect:
 ## 📸 Screenshots
 
 ### Hero Section  
-![Hero](./assets/Hero Section.jpg)
+Level 1 Task 1 Landing Page/assests/Features.JPG
 
 ### Features  
 ![Features](./assets/Features.jpg)
