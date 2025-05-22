@@ -54,7 +54,7 @@ Have questions or suggestions? Feel free to connect:
 ---
 ## 📸 Screenshots
 ### Hero Section  
-![Hero](./assets/screenshots/hero.jpg)
+https://github.com/amanarya1311/CODSOFT/blob/ce1cf03559c7cd2a85bac417802d1b88b402d8e0/Level%201%20Task%201%20Landing%20Page/Features.JPG
 
 ### Features  
 ![Features](./assets/screenshots/features.jpg)
