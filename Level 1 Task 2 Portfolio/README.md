@@ -137,4 +137,4 @@ Follow these steps to view the portfolio website on your local machine:
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the [LICENSE](License) file for details.
