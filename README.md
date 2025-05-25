@@ -38,19 +38,19 @@ This task allowed me to apply my knowledge of HTML and CSS in a structured multi
 - In this task, I developed a basic calculator using HTML, CSS, and JavaScript, capable of performing standard arithmetic operations such as addition, subtraction, multiplication, and division. The project features a clean, interactive interface and functions as a simple utility tool for quick calculations.
 - 
 **Key Features:**
-- User-Friendly Display: A dedicated display area shows the current input and calculation results.
-- Core Arithmetic Operations: Supports addition, subtraction, multiplication, and division.
-- Percentage Functionality: Allows users to calculate percentages.
-- Decimal Input: Enables floating-point number calculations.
-- Clear and Backspace Functions: "AC" (All Clear) resets the calculator, and "DEL" (Delete) removes the last entered digit or operator.
-- Error Handling: Displays "Error" for invalid expressions or results like division by zero.
-- Responsive Design: The layout adapts to different screen sizes, ensuring usability across devices.
-- Intuitive Button Layout: Buttons are arranged in a standard calculator format for ease of use.
-- Visual Feedback: Buttons provide visual feedback on hover and active states.
+- **User-Friendly Display:** A dedicated display area shows the current input and calculation results.
+- **Core Arithmetic Operations:** Supports addition, subtraction, multiplication, and division.
+- **Percentage Functionality:** Allows users to calculate percentages.
+- **Decimal Input:** Enables floating-point number calculations.
+- **Clear and Backspace Functions:** "AC" (All Clear) resets the calculator, and "DEL" (Delete) removes the last entered digit or operator.
+- **Error Handling:** Displays "Error" for invalid expressions or results like division by zero.
+- **Responsive Design:** The layout adapts to different screen sizes, ensuring usability across devices.
+- **Intuitive Button Layout:** Buttons are arranged in a standard calculator format for ease of use.
+- **Visual Feedback:** Buttons provide visual feedback on hover and active states.
 
 **Technologies Used:**
-HTML5: Structured the calculator's layout, including the display and buttons.
-CSS3: Styled the calculator for a modern and clean appearance, including responsive design elements and button styling.
-JavaScript: Implemented the core calculator logic, handling user input, expression evaluation, and display updates.
+- **HTML5:** Structured the calculator's layout, including the display and buttons.
+- **CSS3:** Styled the calculator for a modern and clean appearance, including responsive design elements and button styling.
+- **JavaScript:** Implemented the core calculator logic, handling user input, expression evaluation, and display updates.
 
 - This task allowed for the practical application of front-end web development skills, focusing on interactive functionality and user interface design.
