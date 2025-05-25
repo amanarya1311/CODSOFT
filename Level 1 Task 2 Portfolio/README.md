@@ -75,8 +75,8 @@ My experience includes working on various projects, from simple static sites to 
 ---
 
 ## 📄 Resume
-You can download my full resume in PDF format directly from the website:  
-**Download Resume (PDF)**
+You can download my full resume in PDF format directly from the website:   
+[**Download Resume (PDF)**](https://drive.google.com/uc?export=download&id=1Vnr5DjngEX2kECw7IAzsT3b5j3OTprg1)
 
 ---
 
@@ -85,8 +85,8 @@ I'm always open to new opportunities and collaborations. Feel free to reach out!
 
 - Email: amanarya0742@gmail.com  
 - Phone: +91 9761587228  
-- LinkedIn: Aman Kumar Arya  
-- Facebook: amanaryaji (https://www.instagram.com/i_aman_arya/?hl=en)
+- LinkedIn: [Aman Kumar Arya](https://www.linkedin.com/in/aman-kumar-arya-2z/)
+- Facebook: [amanaryaji](https://www.instagram.com/i_aman_arya/?hl=en)
 - Instagram: [@i_aman_arya](https://www.instagram.com/i_aman_arya/?hl=en)  
 - Twitter (X): [@aman_arya_a2](https://x.com/aman_arya_a2)
 
