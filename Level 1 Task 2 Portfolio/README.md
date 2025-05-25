@@ -95,7 +95,8 @@ I'm always open to new opportunities and collaborations. Feel free to reach out!
 ## 📸 Screenshots
 (To be added: Include screenshots of key sections of the portfolio website here, such as the Header, About Me section, Skills section, Projects section, and Contact section.)
 
-- Header Section  
+- Header Section
+- ![Header](./assets/header.jpg)
 - About Me Section  
 - Skills Section  
 - Projects Section  
