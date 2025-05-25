@@ -86,7 +86,7 @@ I'm always open to new opportunities and collaborations. Feel free to reach out!
 - Email: amanarya0742@gmail.com  
 - Phone: +91 9761587228  
 - LinkedIn: Aman Kumar Arya  
-- Facebook: amanaryaji  
+- Facebook: amanaryaji (https://www.instagram.com/i_aman_arya/?hl=en)
 - Instagram: [@i_aman_arya](https://www.instagram.com/i_aman_arya/?hl=en)  
 - Twitter (X): [@aman_arya_a2](https://x.com/aman_arya_a2)
 
