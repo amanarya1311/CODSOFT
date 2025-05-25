@@ -53,4 +53,4 @@ This task allowed me to apply my knowledge of HTML and CSS in a structured multi
 - **CSS3:** Styled the calculator for a modern and clean appearance, including responsive design elements and button styling.
 - **JavaScript:** Implemented the core calculator logic, handling user input, expression evaluation, and display updates.
 
-- This task allowed for the practical application of front-end web development skills, focusing on interactive functionality and user interface design.
+This task allowed for the practical application of front-end web development skills, focusing on interactive functionality and user interface design.
