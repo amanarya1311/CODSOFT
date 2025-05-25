@@ -61,9 +61,9 @@ This portfolio website highlights my proficiency in the following technical area
 ## 🏗️ Projects
 Here are the key projects showcased on this portfolio website:
 
-- **My Landing Page:** A modern responsive landing page designed using HTML and CSS. This project focuses on clean layout, smooth visuals, and beginner-friendly structure.  
-- **SafaltaaHai Blog:** A motivational and educational blog hosted on Blogger. It features articles on success, mindset, productivity, and personal growth — aimed at helping young minds rise above challenges.  
-- **Weather App:** A clean and responsive weather app that fetches real-time data using the OpenWeatherMap API. Shows temperature, humidity, and weather icons based on city input.
+- **My Landing Page:** A modern responsive landing page designed using HTML and CSS. This project focuses on clean layout, smooth visuals, and beginner-friendly structure. for visit [Click Here](https://amanarya1311.github.io/landing-page/) 
+- **SafaltaaHai Blog:** A motivational and educational blog hosted on Blogger. It features articles on success, mindset, productivity, and personal growth — aimed at helping young minds rise above challenges. for visit [Click Here](https://safaltaahai.blogspot.com/) 
+- **Weather App:** A clean and responsive weather app that fetches real-time data using the OpenWeatherMap API. Shows temperature, humidity, and weather icons based on city input. for visit [Click Here](https://amanarya1311.github.io/weather-app) 
 
 ---
 
