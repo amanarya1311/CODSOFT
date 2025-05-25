@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Basic Calculator</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="calculator">
+        <input type="text" class="calculator-display" value="0" disabled>
+        <div class="calculator-buttons">
+            <button class="button operator" data-action="clear">AC</button>
+            <button class="button operator" data-action="backspace">DEL</button>
+            <button class="button operator" data-action="percentage">%</button>
+            <button class="button operator" data-action="divide">/</button>
+
+            <button class="button number">7</button>
+            <button class="button number">8</button>
+            <button class="button number">9</button>
+            <button class="button operator" data-action="multiply">*</button>
+
+            <button class="button number">4</button>
+            <button class="button number">5</button>
+            <button class="button number">6</button>
+            <button class="button operator" data-action="subtract">-</button>
+
+            <button class="button number">1</button>
+            <button class="button number">2</button>
+            <button class="button number">3</button>
+            <button class="button operator" data-action="add">+</button>
+
+            <button class="button number zero">0</button>
+            <button class="button number" data-action="decimal">.</button>
+            <button class="button operator" data-action="equals">=</button>
+        </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
