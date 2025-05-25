@@ -1,6 +1,6 @@
 # 🧮 Calculator Web App – Task 3 @ CodSoft
 
-Welcome to my Calculator Web App project, developed as part of **Level 1, Task 3** during my web development internship at **CodSoft**. This project showcases a clean and responsive calculator interface where users can perform basic arithmetic operations with ease. It’s designed with pure **HTML, CSS, and JavaScript**, emphasizing both functionality and aesthetic simplicity.
+Welcome to my Calculator Web App project, developed as part of **Level 1, Task 3** during my web development internship at **CodSoft**. This project showcases a clean and responsive calculator interface where users can perform basic arithmetic operations with ease. It’s designed with pure **HTML, CSS, and JavaScript**, emphasising both functionality and aesthetic simplicity.
 
 ## 📑 Table of Contents
 - [About](#about)
@@ -51,8 +51,6 @@ This project helped me strengthen the following technical skills:
 ---
 
 ## 📸 Screenshots  
-(To be added: Include one or more screenshots of your calculator interface)
-
 - Calculator Interface  
   ![Calculator UI](./assets/calculator.jpg)
 
