@@ -56,3 +56,5 @@ This task allowed me to apply my knowledge of HTML and CSS in a structured multi
 - **JavaScript:** Implemented the core calculator logic, handling user input, expression evaluation, and display updates.
 
 This task allowed for the practical application of front-end web development skills, focusing on interactive functionality and user interface design.
+
+[Demo link](https://amanarya1311.github.io/CODSOFT/level_1_task_3_calculator)
