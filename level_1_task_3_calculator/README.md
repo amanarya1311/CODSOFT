@@ -74,7 +74,7 @@ To view or run this calculator project locally on your machine:
    `git clone https://github.com/amanarya1311/CODSOFT.git`
 
 2. Navigate to the project folder:  
-   `cd "Level 1 Task 3 Calculator"`
+   `cd "level_1_task_3_calculator"`
 
 3. Open the `index.html` file in your browser:
 
@@ -82,7 +82,7 @@ To view or run this calculator project locally on your machine:
 - Right-click → Open with your browser, or  
 - Use Live Server in VS Code (recommended)
 
----
+[Demo link](https://amanarya1311.github.io/CODSOFT/level_1_task_3_calculator/)
 
 ## 📄 License
 
