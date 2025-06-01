@@ -90,7 +90,7 @@ Right-click on it and select "Open with" > your preferred browser, OR
 
 Use a Live Server extension in VS Code (recommended for real-time changes).
 
-[Demo Link](https://amanarya1311.github.io/codsoft/level_1_task_1_landing_page/)
+[Demo Link](https://amanarya1311.github.io/CODSOFT/level_1_task_1_landing_page/)
 
 ## 📄 License
 
