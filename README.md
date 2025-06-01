@@ -18,6 +18,8 @@ This task helped me understand **semantic HTML**, **responsive design principles
 
 > 🛠 Technologies used: HTML5, CSS3, Flexbox, Google Fonts, Font Awesome
 
+[Demo link](https://amanarya1311.github.io/CODSOFT/level_1_task_1_landing_page)
+
 ### ✅ Task 2: Personal Portfolio Website
 **Description:**  
 - In this task, I developed a fully responsive personal portfolio website to showcase my skills, projects, and contact details in a clean and user-friendly layout. The page includes:
