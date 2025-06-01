@@ -133,7 +133,7 @@ Follow these steps to view the portfolio website on your local machine:
 - Right-click on it and select "Open with" > your preferred browser, OR  
 - Use a Live Server extension in VS Code (recommended for real-time changes).
 
----
+[Demo link](https://amanarya1311.github.io/CODSOFT/level_1_task_2_portfolio)
 
 ## 📄 License
 
