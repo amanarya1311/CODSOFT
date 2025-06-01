@@ -35,6 +35,8 @@ This task allowed me to apply my knowledge of HTML and CSS in a structured multi
 
 🛠 Technologies used: HTML5, CSS3, Flexbox, Google Fonts, Font Awesome
 
+[DEMO LINK](https://amanarya1311.github.io/CODSOFT/level_1_task_2_portfolio/index.html)
+
 ### ✅ Task 3: Basic Calculator
 **Description:** 
 - In this task, I developed a basic calculator using HTML, CSS, and JavaScript, capable of performing standard arithmetic operations such as addition, subtraction, multiplication, and division. The project features a clean, interactive interface and functions as a simple utility tool for quick calculations.
