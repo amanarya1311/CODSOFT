@@ -126,7 +126,7 @@ Follow these steps to view the portfolio website on your local machine:
 1. Clone the repository:  
    `git clone https://github.com/amanarya1311/CODSOFT.git`  
 2. Navigate to the project folder:  
-   `cd "Level 1 Task 2 Portfolio Website"`  
+   `cd "level_1_task_2_portfolioe"`  
 3. Open the `index.html` file in your web browser:  
 
 - You can double-click the `index.html` file, OR  
