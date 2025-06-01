@@ -81,7 +81,7 @@ Have questions or suggestions? Feel free to connect:
 Follow these steps to view the landing page on your local machine:
 
 1. Clone the repository: git clone https://github.com/amanarya1311/CODSOFT.git
-2. Navigate to the project folder: cd "Level 1 Task 1 Landing Page"
+2. Navigate to the project folder: cd "level_1_task_1_landing_page"
 3.  Open the Index.html file in your web browser:
 
 You can double-click the Index.html file, OR
@@ -90,7 +90,7 @@ Right-click on it and select "Open with" > your preferred browser, OR
 
 Use a Live Server extension in VS Code (recommended for real-time changes).
 
-[Demo Link]()
+[Demo Link](https://amanarya1311.github.io/codsoft/level_1_task_1_landing_page/)
 
 ## 📄 License
 
